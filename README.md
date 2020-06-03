@@ -1,1 +1,2 @@
-Course Registration System(Basic) to Django Starter Project
+Course Registration System(Basic) 
+Django Starter Project by Zaw Htut Win

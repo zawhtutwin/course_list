@@ -1,0 +1,7 @@
+<form action="/add_course" method="POST">
+	{% csrf_token %}
+	<input type="text" name="course_code"/>
+	<input type="text" name="semester"/>
+	<input type="submit" value="Create Course">
+	<a href="/">Cancel</a>
+</form>
